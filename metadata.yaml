@@ -1,0 +1,32 @@
+_repo: Seven-Miles-to-Arden_28271
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28271-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Sawyer, Ruth
+    alias: Durand, Lucinda
+    birthdate: 1880
+    deathdate: 1970
+    gutenberg_agent_id: '6085'
+    url: http://www.gutenberg.org/2009/agents/6085
+description: ''
+gutenberg_issued: '2009-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28271'
+  lccn: '16010304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Irish -- United States -- Fiction'
+- !lcsh 'Actresses -- Fiction'
+title: Seven Miles to Arden
+url: http://www.gutenberg.org/ebooks/28271
